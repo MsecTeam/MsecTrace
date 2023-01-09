@@ -1,5 +1,5 @@
 # MsecTrace
-Kali LOinux And Termux
+Kali Linux And Termux
 
 # Instalasi 
 apt install toilet
